@@ -1,0 +1,4 @@
+int drawable fondo_dark 0x0
+int drawable fondo_light 0x0
+int drawable fondo_tablet_dark 0x0
+int drawable fondo_tablet_light 0x0

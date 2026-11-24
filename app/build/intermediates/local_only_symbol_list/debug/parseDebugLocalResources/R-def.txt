@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+drawable fondo_dark
+drawable fondo_light
+drawable fondo_tablet_dark
+drawable fondo_tablet_light
